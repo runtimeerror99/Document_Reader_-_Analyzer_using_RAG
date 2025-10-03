@@ -62,7 +62,7 @@ if __name__ == "__main__":
             st.write("Redirecting you to the project page...")
             st.switch_page("./pages/project.py")
     if st.button("Sign Up Now"):
-        # Redirect to the sign-up page or any desired page
+        # Redirect to the sign-up page or any desired page 
         st.write("Redirecting you to the sign-up page...")
         st.switch_page("./pages/authenticate.py")
         # You can add redirection code here 
