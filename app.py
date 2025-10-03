@@ -67,7 +67,7 @@ if __name__ == "__main__":
         st.switch_page("./pages/authenticate.py")
         # You can add redirection code here 
 
-    # Footer 
+    # Footer
     st.markdown("""
     ---
     Experience the future of document interaction with DORA. Simplify, streamline, and succeed.
