@@ -19,7 +19,7 @@ if __name__ == "__main__":
 
     # print("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7367141985992219") 
 
-    # Page Title and Description
+    # Page Title & Description
     st.title("Welcome to DORAv2.0 (BETA)!")
     st.subheader("The Document and Dataset Explorer!")
     st.write('DORA helps you to find the answers')
