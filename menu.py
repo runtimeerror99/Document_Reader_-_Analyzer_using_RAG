@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import uuid
 
-# Initialize Firebase once at the module level
+# Initialize Firebase once at the module level 
 def get_firebase():
     if 'firebase' not in st.session_state:
         firebaseConfig = {
