@@ -65,7 +65,7 @@ if __name__ == "__main__":
         # Redirect to the sign-up page or any desired page
         st.write("Redirecting you to the sign-up page...")
         st.switch_page("./pages/authenticate.py")
-        # You can add redirection code here
+        # You can add redirection code here 
 
     # Footer 
     st.markdown("""
