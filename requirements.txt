@@ -1,0 +1,10 @@
+streamlit==1.36.0
+pyrebase4==4.8.0
+python-pptx==0.6.23
+llama-index==0.11.22
+pandas==2.2.2
+lida==0.0.14
+pillow==10.4.0
+matplotlib==3.9.2
+openai==1.50.2
+llama-index-experimental==0.4.0
