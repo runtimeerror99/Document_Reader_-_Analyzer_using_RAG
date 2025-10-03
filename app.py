@@ -51,7 +51,7 @@ if __name__ == "__main__":
     No matter your field or profession, DORA is your trusted partner in unlocking the wealth of knowledge hidden within your documents.
     """)
 
-    # Get Started Section 
+    # Get Started Section
     st.header("Get Started")
     st.write("""
     Ready to experience the future of document interaction? Sign up now and join countless others who have embraced the power of DORA!
