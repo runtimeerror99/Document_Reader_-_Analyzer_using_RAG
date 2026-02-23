@@ -76,7 +76,7 @@ def clear_chat():
 # Function to save current chat
 def save_current_chat():
     if save_chat_to_firebase():
-        st.sidebar.success("Chat saved successfully!")
+        st.sidebar.success("Chat saved successfully!!")
     else:
         st.sidebar.error("Failed to save chat.")
 
