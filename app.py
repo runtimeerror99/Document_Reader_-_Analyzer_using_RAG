@@ -58,8 +58,8 @@ if __name__ == "__main__":
     """)
     if 'role' in st.session_state:
         if st.session_state.role is not None:
-            st.write("You are already logged in")
-            st.write("Redirecting you to the project page...")
+            st.write("You are succesfully logged in")
+            st.write("Redirecting you to the project page..")
             st.switch_page("./pages/project.py")
     if st.button("Sign Up Now"):
         # Redirect to the sign-up page or any desired page 
